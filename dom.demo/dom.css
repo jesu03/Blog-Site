@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+
+    background-image: url("https://media.istockphoto.com/photos/empty-red-armchairs-of-a-theater-ready-for-a-show-picture-id1295114854?b=1&k=20&m=1295114854&s=170667a&w=0&h=W9ZbN674554Jsamxo5AfoO3DrSm_7qYS1EnANgusi9o=");
+}
+
+.container{
+    border-radius: 10px;
+}
+
+.page{
+    text-align: center;
+    
+    height: 100px;
+}
+
+.title{
+    margin-bottom: 5px;
+    margin-top: 30px;
+    
+}
+
+.title1{
+    margin-left: 50px;
+}
+
+.movie-list{
+    color: antiquewhite;
+    font-size: 20px;
+}
+
+
+.delete{
+    margin-left: 500px;
+}
+
+.order{
+    margin-top: 20px;
+    margin-left: 180px;
+}
+
+.form{
+     margin-left: 180px;
+     margin-top: 29px;
+}
+
